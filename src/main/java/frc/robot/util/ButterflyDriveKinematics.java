@@ -11,6 +11,9 @@ import edu.wpi.first.math.kinematics.DifferentialDriveWheelSpeeds;
 import edu.wpi.first.math.kinematics.MecanumDriveKinematics;
 import edu.wpi.first.math.kinematics.MecanumDriveWheelSpeeds;
 
+/**
+ * Butterfly kinematics class that encapsulates Differential and Mecanum kinematics classes
+ */
 public class ButterflyDriveKinematics {
 
     private final DifferentialDriveKinematics mDifferentialKinematics;

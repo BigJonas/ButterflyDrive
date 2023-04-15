@@ -7,7 +7,9 @@ package frc.robot.util;
 import edu.wpi.first.math.kinematics.DifferentialDriveWheelSpeeds;
 import edu.wpi.first.math.kinematics.MecanumDriveWheelSpeeds;
 
-/** Add your docs here. */
+/**
+ * Wheel Speeds class that encapsulates Differential and Mecanum wheel speeds
+ */
 public class ButterflyDriveWheelSpeeds {
     public double frontLeftMetersPerSecond;
 
